@@ -359,14 +359,6 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](L
 
 ---
 
-## 🙏 Agradecimientos
-
-- **OpenAI** por proporcionar la API de IA
-- **Streamlit** por el framework de UI
-- **Comunidad de ciberseguridad** por el feedback y sugerencias
-
----
-
 ## 📞 Soporte
 
 Si encuentras problemas o tienes preguntas:
@@ -379,7 +371,7 @@ Si encuentras problemas o tienes preguntas:
 
 <div align="center">
 
-**Desarrollado con ❤️ para la comunidad de ciberseguridad**
+PIRE
 
 ⭐ Si te gusta este proyecto, dale una estrella en GitHub ⭐
 
